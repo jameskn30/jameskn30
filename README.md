@@ -10,6 +10,9 @@
 - Building fun projects with Raspberry Pi
 - Play league of legends 😊
 
+### 📱 My contacts
+*jameskn3010* _at_ gmail _dot_ com
+
 ### 👷 Projects
 ##### NewsHub app
 -   Scrape financial news from internet (Yahoo) with Scrapy
